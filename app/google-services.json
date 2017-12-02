@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974594695035",
+    "firebase_url": "https://xamarincertificationquestions.firebaseio.com",
+    "project_id": "xamarincertificationquestions",
+    "storage_bucket": "xamarincertificationquestions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974594695035:android:793c6ba85fcd785f",
+        "android_client_info": {
+          "package_name": "com.dexter.xamrincertificationquestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974594695035-asinktqrg5pjkr83us7jnk2glerer6bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA06MnXtR4VgURJHguYD5O3dedtmsXJ2bU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
